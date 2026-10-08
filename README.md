@@ -13,3 +13,6 @@ A high-performance, multi-threaded SMS bombing tool designed for penetration tes
 
 1. **Clone the repository:**
    
+2.**ls**
+3.**cd sms_bomber_v2**
+4.**python rdx_bomber.py**
